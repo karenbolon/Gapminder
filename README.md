@@ -1,7 +1,7 @@
 # Gapminder
 Gapminder analysis
 
-# [Project: GIFs of Fertility Rate vs Life Expectancy](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/Gapminder_Analysis_GIF_Project)
+# [Project: GIFs of Fertility Rate vs Life Expectancy](https://github.com/kbolon1/Gapminder)
 
 * Collected data from gapminder project (https://www.gapminder.org/data/)
 
